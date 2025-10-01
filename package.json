@@ -2,10 +2,10 @@
   "name": "idos-bot",
   "version": "1.0.0",
   "description": "Simple idOS daily check-in bot with menu options",
-  "main": "index.js",
+  "main": "kazmight.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node kazmight.js"
   },
   "keywords": [
     "idos",
