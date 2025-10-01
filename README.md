@@ -5,15 +5,14 @@ Supports menu options: single check-in, auto-loop every 24 hours, refresh points
 Private keys are loaded securely from a .env file.*
 
 ✨ Features
-
 ✅ Daily Check-in — run check-in once for all accounts.
 🔄 Auto Loop Daily Check-in — repeat automatically every 24 hours with countdown animation.
 🛑 Stop Auto Loop — interrupt the loop anytime from the menu.
 📊 Refresh Points — check your current idOS points without claiming.
 🔐 Private key management — load one or multiple private keys from .env.
 🎨 Colorful CLI logs — clear logging with colors and symbols.
-📦 Requirements
 
+📦 Requirements
 Node.js v18+
 NPM
 
