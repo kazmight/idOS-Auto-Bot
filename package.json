@@ -1,0 +1,23 @@
+{
+  "name": "idos-bot",
+  "version": "1.0.0",
+  "description": "Simple idOS daily check-in bot with menu options",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "idos",
+    "bot",
+    "daily-checkin",
+    "nodejs",
+    "menu"
+  ],
+  "author": "Kazmight",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.12.1"
+  }
+}
